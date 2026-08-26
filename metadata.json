@@ -1,0 +1,8 @@
+{
+  "name": "Remix TCE SIGConnect",
+  "description": "Multi-Tenant Student Interest Group (SIG) Management \u0026 Isolation Portal for Thiagarajar College of Engineering (TCE)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
